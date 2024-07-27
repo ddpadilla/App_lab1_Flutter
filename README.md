@@ -1,16 +1,18 @@
 # app_lab1
 
-A new Flutter project.
+Temas y funcionalidades aplicadas en desarrollo de la app:
 
-## Getting Started
+-Conceptos básicos del funcionamiento de Flutter
+-Cómo crear diseños en Flutter
+-Cómo conectar las interacciones del usuario (como la presión de un botón) con el comportamiento de la app
+-Cómo mantener organizado tu código de Flutter
+-Cómo hacer que tu app sea responsiva
+-Cómo lograr que tu app tenga un aspecto y una experiencia coherentes
 
-This project is a starting point for a Flutter application.
+#Descripcion
+Aplicacion que genera palabras aleatoreas en Ingles al presionar un boton, a su vez almacenar palabras favoritas en un pagina utilizando un
+segundo boton y asi mismo se puedan remover al quitar el like.
 
-A few resources to get you started if this is your first Flutter project:
+## Video demostracion del funcionamiento.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+(https://github.com/user-attachments/assets/477d14e3-de15-4678-8d77-dc868f154a49)
